@@ -1,28 +1,30 @@
 [
   {
-    "name": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "technologies": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "name": "Full Stack App and Web Development",
+    "organisation": "WBS Coding School, Berlin",
+    "startDate": "March, 2024",
+    "endDate": "July 2024",
+    "technologies": ["MERN Stack"],
     "imageSrc": "certifications/wbs.png"
   },
   {
-    "name": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "technologies": ["Worked on Windows 11", "Designed the control panel"],
+    "name": "Front End Development Libraries",
+    "organisation": "freecodecamp",
+    "startDate": "June, 2024",
+    "endDate": "July, 2024",
+    "technologies": ["React.js", "Bootstrap", "Redux.js","jQuery"],
     "imageSrc": "certifications/fcc.png"
   },
   {
-    "name": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "name": "Business Intelligence Data Anlayst",
+    "organisation": "codecademy",
+    "startDate": "July, 2024",
+    "endDate": "August, 2024",
     "technologies": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Python",
+      "MySQL",
+      "BI Tools",
+      "Tableau"
     ],
     "imageSrc": "certifications/codecademy.png"
   }
