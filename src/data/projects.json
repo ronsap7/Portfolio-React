@@ -1,11 +1,11 @@
 [
     {
-      "title": "Project A",
+      "title": "Analysis of International Football Matches",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com/ronsap7"
+      "description": "This project analyzes the results of international football matches, focusing on different aspects such as match outcomes, top goal scorers, and shootout outcomes",
+      "skills": ["Python", "MySQL", "Tableau", "Power BI"],
+      "demo": "https://github.com/ronsap7/International-football-matches---codecademy-",
+      "source": "https://github.com/ronsap7/International-football-matches---codecademy-"
     },
     {
       "title": "Project B",
